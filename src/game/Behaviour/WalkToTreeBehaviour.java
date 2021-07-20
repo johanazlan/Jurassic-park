@@ -9,7 +9,6 @@ import game.Dinosaur.Pterodactyl;
 import game.Ground.Tree;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Behaviour.WanderBehaviour
  */
