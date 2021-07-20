@@ -3,7 +3,6 @@ package game.Item;
 import basecode.engine.WeaponItem;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see PortableItem
  */
