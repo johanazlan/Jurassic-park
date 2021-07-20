@@ -7,7 +7,6 @@ import game.Dinosaur.Pterodactyl;
 import game.DinosaurCapability;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Behaviour.Behaviour
  */
