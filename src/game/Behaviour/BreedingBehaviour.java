@@ -8,7 +8,6 @@ import game.Distance;
 import game.Ground.Tree;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Behaviour.FollowBehaviour
  */
