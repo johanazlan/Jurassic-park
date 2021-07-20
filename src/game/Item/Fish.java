@@ -3,7 +3,6 @@ package game.Item;
 import basecode.engine.Item;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see Fruit
  */
