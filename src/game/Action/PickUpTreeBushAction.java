@@ -9,7 +9,6 @@ import game.Player;
 import java.util.Random;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Behaviour
  */
