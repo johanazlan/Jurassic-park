@@ -20,7 +20,6 @@ import game.Item.*;
 
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Application
  */
