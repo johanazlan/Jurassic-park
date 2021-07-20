@@ -6,7 +6,6 @@ import game.Item.*;
 import java.util.Scanner;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.1
  * @see Wall
  */
