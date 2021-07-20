@@ -4,7 +4,6 @@ import basecode.engine.Location;
 
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see Floor
  * @see game.JurassicParkGameMap
