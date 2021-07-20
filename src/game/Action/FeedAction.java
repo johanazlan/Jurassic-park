@@ -13,7 +13,6 @@ import game.Item.VegetarianMealKit;
 import game.Player;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.1
  * @see game.Action.MatingAction
  */
