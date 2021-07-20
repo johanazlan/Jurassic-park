@@ -9,7 +9,6 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Player
  */
