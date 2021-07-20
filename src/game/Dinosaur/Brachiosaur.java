@@ -10,7 +10,6 @@ import game.Ground.Dirt;
 import java.util.Random;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Dinosaur
  */
