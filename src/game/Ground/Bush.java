@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Ground.Dirt
  */
