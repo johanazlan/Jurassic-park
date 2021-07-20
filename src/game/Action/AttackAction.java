@@ -11,7 +11,6 @@ import basecode.engine.Weapon;
 import game.Item.PortableItem;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Action.DeadAction
  */
