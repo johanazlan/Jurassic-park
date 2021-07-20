@@ -11,7 +11,6 @@ import basecode.engine.Location;
 import game.Behaviour.Behaviour;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Dinosaur
  */
