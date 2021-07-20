@@ -8,7 +8,6 @@ import game.Action.FeedAction;
 import game.Behaviour.Behaviour;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Ground
  */
