@@ -6,7 +6,6 @@ import basecode.engine.GameMap;
 import game.DinosaurCapability;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Action.PickUpTreeBushAction
  */
