@@ -8,7 +8,6 @@ import game.Dinosaur.*;
 import game.Ground.Lake;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Application
  */
