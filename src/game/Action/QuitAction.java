@@ -6,7 +6,6 @@ import basecode.engine.GameMap;
 
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see RefuelAction
  */
