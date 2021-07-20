@@ -8,7 +8,6 @@ import game.Item.Egg;
 import java.util.ArrayList;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.DinosaurCapability
  */
