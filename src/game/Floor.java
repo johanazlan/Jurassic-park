@@ -3,7 +3,6 @@ package game;
 import basecode.engine.Ground;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.VendingMachine
  */
