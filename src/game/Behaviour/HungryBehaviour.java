@@ -14,7 +14,6 @@ import game.Item.Fruit;
 
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Behaviour.UnconsciousBehaviour
  */
