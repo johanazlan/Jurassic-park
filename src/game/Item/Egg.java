@@ -8,7 +8,6 @@ import game.Dinosaur.Stegosaur;
 
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Item.Fish
  */
