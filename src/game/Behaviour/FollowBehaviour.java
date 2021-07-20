@@ -5,7 +5,6 @@ import game.Behaviour.Behaviour;
 import game.Distance;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Behaviour.FollowBehaviour
  */
