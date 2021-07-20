@@ -4,7 +4,6 @@ import basecode.engine.*;
 import game.Distance;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see game.Behaviour.HungryBehaviour
  */
