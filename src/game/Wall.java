@@ -5,7 +5,6 @@ import basecode.engine.Ground;
 import game.Behaviour.BreedingBehaviour;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.0
  * @see Player
  */
