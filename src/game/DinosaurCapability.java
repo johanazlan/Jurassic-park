@@ -1,7 +1,6 @@
 package game;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.0.1
  * @see game.Distance
  */
