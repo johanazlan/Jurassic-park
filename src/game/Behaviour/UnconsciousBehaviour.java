@@ -5,7 +5,6 @@ import game.Action.DeadAction;
 import game.Dinosaur.*;
 
 /**
- * @author shauntan, johanazlan
  * @version 1.1.0
  * @see game.Behaviour.WanderBehaviour
  * @see game.Behaviour.WalkToTreeBehaviour
